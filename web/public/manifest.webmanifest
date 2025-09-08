@@ -1,0 +1,10 @@
+{
+  "name": "CustomerNeeds",
+  "short_name": "Needs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "Track customer transactions & payments",
+  "icons": [{ "src": "/vite.svg", "sizes": "192x192", "type": "image/svg+xml" }]
+}
